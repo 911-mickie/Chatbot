@@ -1,0 +1,17 @@
+[
+    {
+        "emergency": "patient not breathing",
+        "instructions": "Perform CPR. Push down on the chest hard and fast, and give breaths mouth-to-mouth.",
+        "source": "Red Cross"
+    },
+    {
+        "emergency": "severe bleeding",
+        "instructions": "Apply pressure to the wound with a clean cloth or bandage. Elevate the injured area if possible.",
+        "source": "WHO"
+    },
+    {
+        "emergency": "heart attack symptoms",
+        "instructions": "Call emergency services immediately. Chew and swallow an aspirin, unless allergic or advised against it.",
+        "source": "MedlinePlus"
+    }
+]
