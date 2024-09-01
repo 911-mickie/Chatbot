@@ -5,3 +5,7 @@ App.py is the oldest one which was running
 main.py is the one I was trying to fix
 
 test.py is just an edited version of main.py
+
+Ignore all of them
+
+testing.py is the latest version that works
